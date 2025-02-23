@@ -30,5 +30,23 @@ This package is ideal for businesses, developers, and startups looking for a rea
 ### 📜 License
 This project is licensed under MIT [License](https://mit-license.org/)
 
+# 🚀 GitHub API Sample with Authentication  
+
+This guide shows how to authenticate and interact with the **GitHub API** using a **Personal Access Token (PAT)**.  
+
+## 🔐 Get Your WebPack 2.0 Personal Access Token (PAT)  
+1. An email will be sent to you after purchase
+2. Use it on your web & App project **"Auth Bear: SK xxxxxxxxxxxx"**.  
+3. Select scopes (e.g., `repo`, `user`).  
+4. Copy and save your token securely.  
+
+---
+
+## 📌 Get User Info (Using cURL)  
+```bash
+curl -H "Authorization: token YOUR_WEBPACK_TOKEN" \
+     -H "Accept: application/vnd.github.v3+json" \
+     https://api.github.com/user
+```
 # Buy Module
 Click the link to purchase the Module and Get API [Purchase](https://mit-license.org/)
