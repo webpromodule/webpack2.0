@@ -48,5 +48,5 @@ curl -H "Authorization: token YOUR_WEBPACK_TOKEN" \
      -H "Accept: application/vnd.github.v3+json" \
      https://api.github.com/user
 ```
-# Buy Module
+# Module Pricing: $315.00
 Click the link to purchase the Module and Get API [Purchase](https://mit-license.org/)
