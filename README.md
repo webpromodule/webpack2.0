@@ -1,4 +1,3 @@
-![SVG Image](https://www.svgrepo.com/show/520210/web-inspector-fork.svg)
 <img src="https://www.svgrepo.com/show/520210/web-inspector-fork.svg" width="200px" alt="Custom SVG">
 
 # WebPack 2.0
