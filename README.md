@@ -14,10 +14,10 @@ We offer a wide range of **modules and packages** designed to meet the needs of 
 ## 📦 Available Packages  
 | Category           | Features |
 |-------------------|------------------------------------------------|
-| **AI-Powered Telemedicine**      | End-to-end development kits for web & mobile  |
-| **IOS SDK API**       | API integrations, database handlers, auth modules |
-| **Web Dev Pack**    |  UI components, frameworks, templates |
-| **DevOps & Tools**| CI/CD pipelines, automation scripts |
+| **AI-Powered Telemedicine**      | End-to-end development kits for web & mobile $323.00 |
+| **Web Dev Pack**    |  UI components, frameworks, templates $315.00 |
+| **IOS SDK API**       | API integrations, database handlers, auth modules $502.50 |
+| **DevOps & Tools**| CI/CD pipelines, automation scripts $100.12 |
 ---
 
  🔗 [API Demo Code](https://mit-license.org/) ||  [Buy AI-Powered Telemedicine](https://mit-license.org/) ||  [Buy IOS SDK API](https://mit-license.org/)
