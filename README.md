@@ -13,7 +13,7 @@ We offer a wide range of **modules and packages** designed to meet the needs of 
 
 ## 📦 Available Packages  
 | Category           | Features |
-|-------------------|------------------------------------------------|
+|-------------------|------------------------------------------------------------------------------------------------|
 | **AI-Powered Telemedicine**      | End-to-end development kits for web & mobile  |
 | **IOS SDK API**       | API integrations, database handlers, auth modules |
 | **Web Dev Pack**    |  UI components, frameworks, templates |
@@ -23,6 +23,11 @@ We offer a wide range of **modules and packages** designed to meet the needs of 
 🔗 **Explore More:** [Documentation](#) | [GitHub Repo](#)   
 
 
+
+ [API Demo Code](https://mit-license.org/) ||  [AI-Powered Telemedicine](https://mit-license.org/) ||  [IOS SDK API](https://mit-license.org/)
+ <hr>
+
+ 
 # WebPack 2.0
 This comprehensive web development package is designed to provide everything needed for a fully functional and secure online portal. It includes all essential files, plugins, and APIs required for seamless integration and performance optimization. The package ensures robust security measures, efficient database management, and compatibility with modern web standards.
 
