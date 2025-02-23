@@ -20,7 +20,7 @@ We offer a wide range of **modules and packages** designed to meet the needs of 
 | **DevOps & Tools**| CI/CD pipelines, automation scripts $100.12 |
 ---
  
-🔗 [Buy AI-Powered Telemedicine](https://checkout.kusor.org/checkout?id=ai-telemedicine)  ||  [Buy APK THIRD PARTY API FRAMEWORK](https://checkout.kusor.org/checkout?id=android-pack)  ||  [DevOps & Tools](https://checkout.kusor.org/checkout?id=devops) 
+🔗 [Buy AI-Powered Telemedicine](https://checkout.kusor.org/checkout?id=ai-telemedicine)  ||  [Buy APK THIRD PARTY API FRAMEWORK](https://checkout.kusor.org/checkout?id=android-pack)  ||  [DevOps & Tools](https://checkout.kusor.org/checkout?id=devops) ||  [Web Dev Pack](https://checkout.kusor.org/checkout?id=web-pack) 
  <hr>
 
  
