@@ -27,4 +27,4 @@ This package is ideal for businesses, developers, and startups looking for a rea
 ```
 
 ### 📜 License
-This project is licensed under MIT [License](https://github.com)]
+This project is licensed under MIT [License](https://mit-license.org/)
