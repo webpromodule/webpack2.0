@@ -1,5 +1,8 @@
 <img src="https://www.svgrepo.com/show/520210/web-inspector-fork.svg" width="200px" alt="Custom SVG">
 
+<hr>
+[Our Plugins](https://mit-license.org/)
+<hr>
 # WebPack 2.0
 This comprehensive web development package is designed to provide everything needed for a fully functional and secure online portal. It includes all essential files, plugins, and APIs required for seamless integration and performance optimization. The package ensures robust security measures, efficient database management, and compatibility with modern web standards.
 
