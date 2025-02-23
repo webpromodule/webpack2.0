@@ -1,3 +1,4 @@
+![Your GIF](https://www.svgrepo.com/show/520210/web-inspector-fork.svg)
 # webpack2.0
 This is a comprehensive web development package designed to provide everything needed for a fully functional and secure online portal. It includes all essential files, plugins, and APIs required for seamless integration and performance optimization. The package ensures robust security measures, efficient database management, and compatibility with modern web standards.
 
