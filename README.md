@@ -15,11 +15,21 @@ This package is ideal for businesses, developers, and startups looking for a rea
 # 📦 Complete Web Pack Development Package
 A fully-featured web development package with all necessary files, plugins, and APIs for secure portal development.
 
-# ✅ Features
+
 ## 📜 Complete Source Code – Well-documented and structured for easy customization.
 ##🔌 Essential Plugins – Pre-integrated plugins to enhance functionality.
 ## 🔐 Secure APIs – Supports authentication, payments, and data protection.
-##⚡ High Performance – Optimized for speed and scalability.
-##📱 Responsive Design – Works across all devices and screen sizes.
-##🛠️ Easy Integration – Compatible with modern frameworks and tools.
-##🌍 Cross-Browser Support – Ensures smooth operation on all major browsers.
+## ⚡ High Performance – Optimized for speed and scalability.
+## 📱 Responsive Design – Works across all devices and screen sizes.
+## 🛠️ Easy Integration – Compatible with modern frameworks and tools.
+## 🌍 Cross-Browser Support – Ensures smooth operation on all major browsers.
+
+# ✅ Features
+### 6️⃣ **Create a Table of Contents**  
+For long READMEs, add quick navigation:  
+```md
+## 📌 Table of Contents
+1. [Introduction](#-introduction)
+2. [Installation](#-installation)
+3. [Features](#-features)
+
