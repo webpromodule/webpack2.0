@@ -20,9 +20,7 @@ We offer a wide range of **modules and packages** designed to meet the needs of 
 | **DevOps & Tools**| CI/CD pipelines, automation scripts |
 ---
 
-🔗 **Explore More:** [Documentation](#) | [GitHub Repo](#)   
-
- [API Demo Code](https://mit-license.org/) ||  [AI-Powered Telemedicine](https://mit-license.org/) ||  [IOS SDK API](https://mit-license.org/)
+ 🔗 [API Demo Code](https://mit-license.org/) ||  [Buy AI-Powered Telemedicine](https://mit-license.org/) ||  [Buy IOS SDK API](https://mit-license.org/)
  <hr>
 
  
