@@ -1,9 +1,10 @@
 ![SVG Image](https://www.svgrepo.com/show/520210/web-inspector-fork.svg)
-# webpack2.0
-This is a comprehensive web development package designed to provide everything needed for a fully functional and secure online portal. It includes all essential files, plugins, and APIs required for seamless integration and performance optimization. The package ensures robust security measures, efficient database management, and compatibility with modern web standards.
+<img src="https://www.svgrepo.com/show/520210/web-inspector-fork.svg" width="200px" alt="Custom SVG">
+
+# WebPack 2.0
+This comprehensive web development package is designed to provide everything needed for a fully functional and secure online portal. It includes all essential files, plugins, and APIs required for seamless integration and performance optimization. The package ensures robust security measures, efficient database management, and compatibility with modern web standards.
 
 A fully-featured web development package with all necessary files, plugins, and APIs for secure portal development.
- 
 
 # ✅ Features
 ### 6️⃣ **📦 Complete Web Pack Development Package**  
