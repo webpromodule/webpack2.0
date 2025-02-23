@@ -19,8 +19,8 @@ We offer a wide range of **modules and packages** designed to meet the needs of 
 | **APK THIRD PARTY API FRAMEWORK**       | API integrations, database handlers, auth modules $502.50 |
 | **DevOps & Tools**| CI/CD pipelines, automation scripts $100.12 |
 ---
-
- 🔗 [API Demo Code](https://mit-license.org/) ||  [Buy AI-Powered Telemedicine](https://mit-license.org/) ||  [Buy APK THIRD PARTY API FRAMEWORK](https://mit-license.org/)
+ 
+🔗 [Buy AI-Powered Telemedicine](https://checkout.kusor.org/checkout?id=ai-telemedicine)  ||  [Buy APK THIRD PARTY API FRAMEWORK](https://checkout.kusor.org/checkout?id=android-pack)  ||  [DevOps & Tools](https://checkout.kusor.org/checkout?id=devops) 
  <hr>
 
  
@@ -56,7 +56,7 @@ This project is licensed under MIT [License](https://mit-license.org/)
 
 # 🚀 GitHub API Sample with Authentication  
 
-This guide shows how to authenticate and interact with the **GitHub API** using a **Personal Access Token (PAT)**.  
+This guide shows how to authenticate and interact with the GitHub API using a Personal Access Token (PAT).  
 
 ## 🔐 Get Your WebPack 2.0 Personal Access Token (PAT)  
 1. An email will be sent to you after purchase
@@ -73,4 +73,4 @@ curl -H "Authorization: token YOUR_WEBPACK_TOKEN" \
      https://api.github.com/user
 ```
 # Module Pricing: $315.00
-Click the link to purchase the Module and Get API [Purchase](https://mit-license.org/)
+Click the link to purchase the Module and Get API [Purchase](https://checkout.kusor.org/checkout?id=web-pack)
