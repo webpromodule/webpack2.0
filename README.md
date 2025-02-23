@@ -16,7 +16,7 @@ We offer a wide range of **modules and packages** designed to meet the needs of 
 |-------------------|------------------------------------------------|
 | **AI-Powered Telemedicine**      | End-to-end development kits for web & mobile $323.00 |
 | **Web Dev Pack**    |  UI components, frameworks, templates $315.00 |
-| **IOS SDK API**       | API integrations, database handlers, auth modules $502.50 |
+| **APK THIRD PARTY API FRAMEWORK**       | API integrations, database handlers, auth modules $502.50 |
 | **DevOps & Tools**| CI/CD pipelines, automation scripts $100.12 |
 ---
 
