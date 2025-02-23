@@ -42,7 +42,7 @@ This guide shows how to authenticate and interact with the **GitHub API** using 
 
 ---
 
-## 📌 Get User Info (Using cURL)  
+## 📌 Using cURL
 ```bash
 curl -H "Authorization: token YOUR_WEBPACK_TOKEN" \
      -H "Accept: application/vnd.github.v3+json" \
