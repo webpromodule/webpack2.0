@@ -30,5 +30,5 @@ This package is ideal for businesses, developers, and startups looking for a rea
 ### 📜 License
 This project is licensed under MIT [License](https://mit-license.org/)
 
-### 📜 Buy Module
+# Buy Module
 Click the link to purchase the Module and Get API [Purchase](https://mit-license.org/)
