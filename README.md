@@ -1,11 +1,6 @@
 # webpack2.0
 This is a comprehensive web development package designed to provide everything needed for a fully functional and secure online portal. It includes all essential files, plugins, and APIs required for seamless integration and performance optimization. The package ensures robust security measures, efficient database management, and compatibility with modern web standards.
- 
 
-This package is ideal for businesses, developers, and startups looking for a ready-to-deploy solution that saves time and effort in building a secure and professional online platform.
-
-# webpack2.0
-#
 A fully-featured web development package with all necessary files, plugins, and APIs for secure portal development.
  
 
@@ -21,4 +16,15 @@ This package is ideal for businesses, developers, and startups looking for a rea
 5. 📱 Responsive Design – Works across all devices and screen sizes.
 6.  🛠️ Easy Integration – Compatible with modern frameworks and tools.
 7. 🌍 Cross-Browser Support – Ensures smooth operation on all major browsers.
+```
 
+### 🔧 Technologies Used
+```md
+**Frontend:** HTML, CSS, JavaScript, React/Vue
+**Backend:** Node.js, Express, Django, Laravel
+**Database:** MySQL, PostgreSQL, MongoDB
+**Security:** OAuth, JWT, reCAPTCHA
+```
+
+### 📜 License
+This project is licensed under MIT License.
